@@ -1,8 +1,10 @@
-## Instituto CCA
+<p align="center"><a href="#" target="_blank"><img src="http://drive.google.com/uc?export=view&id=17ObYMOS5kTz47kbhmFqth8bq29ywy8l3" width="200" alt="CCA Logo"></a></p>
+
 ## Proyecto de curso Web II
 Este es el proyecto de curso de programación Web II, realizado en conjunto con los alumnos de 3er año de la carrera de Sistemas Informáticos del INSTITUTO CIBERNETICO AMERICANO "CCA"
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+##
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
