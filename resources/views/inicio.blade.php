@@ -1,6 +1,8 @@
 @extends('layout.app')
 <!--todo lo que esta dentro del section se visualizara en la pagina de extension-->
 
+@section('title', 'Bienvenido!!!')
+
 @section('contenido')
 
 <div class="container">

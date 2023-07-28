@@ -22,3 +22,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function(){
     return view('inicio');
 });
+
+//probando vista
+Route::get('/listar', function () {
+    return 'Listando contenido de notas';
+});
+
+Route::get('/listar/{id}', function ($id) {
+    return 'Mostrando contenido Numero: '.$id;
+});
