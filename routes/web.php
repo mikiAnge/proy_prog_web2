@@ -27,6 +27,14 @@ Route::get('/curso', function(){
     return view('curso');
 });
 
+/**
+ * Nuevas vistas a agregar
+ * informacion
+ * login o logueo
+ * registro
+ * administrador de registros
+ *  */
+
 
 //En desarrollo
 //probando vista

@@ -26,7 +26,7 @@
                 <a class="nav-link" href="#">Inicio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Cursos</a>
+                <a class="nav-link" href="/curso">Cursos</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Información</a>
