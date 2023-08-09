@@ -15,7 +15,7 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <div class="container-fluid">
           <a class="navbar-brand p-0 me-0 me-lg-2" href="#">
-            <img src="http://drive.google.com/uc?export=view&id=17ObYMOS5kTz47kbhmFqth8bq29ywy8l3" width="40" class="d-block my-1" alt="cca_logo">
+            <img src="http://drive.google.com/uc?export=view&id=1aJwOGaf8eYVu0leSJvJ5NeRiCM3ZR0Ml" width="60" class="d-block my-1" alt="cca_logo">
         </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>

@@ -23,6 +23,12 @@ Route::get('/', function(){
     return view('inicio');
 });
 
+Route::get('/curso', function(){
+    return view('curso');
+});
+
+
+//En desarrollo
 //probando vista
 Route::get('/listar', function () {
     return 'Listando contenido de notas';
